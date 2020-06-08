@@ -3,8 +3,7 @@
   <entry>
     <title>点击进入</title>
     <url>/2020/06/08/hello-world/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="你好欢迎光临小站"><a href="#你好欢迎光临小站" class="headerlink" title="你好欢迎光临小站"></a>你好欢迎光临小站</h2><h2 id="一起学习交流"><a href="#一起学习交流" class="headerlink" title="一起学习交流"></a>一起学习交流</h2><h3 id=""><a href="#" class="headerlink" title=""></a></h3><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="你好欢迎光临小站"><a href="#你好欢迎光临小站" class="headerlink" title="你好欢迎光临小站"></a>你好欢迎光临小站</h2><h2 id="一起学习交流"><a href="#一起学习交流" class="headerlink" title="一起学习交流"></a>一起学习交流</h2><h3 id=""><a href="#" class="headerlink" title=""></a></h3><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
 <h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
